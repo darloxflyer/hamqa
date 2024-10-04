@@ -1,3 +1,5 @@
+FORK PURPOSE - to add output devices (switches, etc) in addition to input sensors.
+
 # hamqa - Home Assistant MQTT autodiscovery sensor registration library
 [![build](https://github.com/hvalev/hamqa/actions/workflows/build.yml/badge.svg)](https://github.com/hvalev/hamqa/actions/workflows/build.yml)
 [![Downloads](https://static.pepy.tech/badge/hamqa)](https://pepy.tech/project/hamqa)
